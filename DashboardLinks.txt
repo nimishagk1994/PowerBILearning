@@ -1,0 +1,1 @@
+1.COVID Dashboard- https://app.powerbi.com/reportEmbed?reportId=1630900c-9e2c-43cd-92e2-3003f28d193b&autoAuth=true&ctid=a505fd44-e614-43c3-bf94-15d2e9f664ab&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
