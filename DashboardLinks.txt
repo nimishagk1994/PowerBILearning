@@ -1,1 +1,20 @@
 1.COVID Dashboard- https://app.powerbi.com/reportEmbed?reportId=1630900c-9e2c-43cd-92e2-3003f28d193b&autoAuth=true&ctid=a505fd44-e614-43c3-bf94-15d2e9f664ab&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+
+Topics Covered-:
+1. Visualizations including Maps/Line Graphs/Cards and Text slicer filter to search within table. 
+2. Data Cleaning using Power Query Editor.
+3. Applying Drilldown feature
+4. Adding Images and Shapes to Dashboard and Design features
+5. Publishing the Dashboard to Power BI Service
+6. Sharing Link using the Embed feature available in Power BI Service.
+
+
+2. NETFLIX Dashboard - https://app.powerbi.com/reportEmbed?reportId=735b83b0-3455-4456-8b7b-7315f0c27448&autoAuth=true&ctid=a505fd44-e614-43c3-bf94-15d2e9f664ab&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+
+Topics Covered-:
+1. Creating Tooltips and Bookmarks
+2. Adding Slicer controls and filter features.
+3. Adding Last Refreshed Time to the Dashboard for better understanding on Data Refresh.
+4. Configuring On Premises Gateway and Scheduling Refresh using Power BI Service.
+
+
